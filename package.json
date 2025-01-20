@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "playwright": "^1.49.1"
+  },
+  "name": "magento-playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "playwright-core": "^1.49.1"
+  },
+  "scripts": {
+    "test": "playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
