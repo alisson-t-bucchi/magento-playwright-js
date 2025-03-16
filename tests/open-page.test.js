@@ -14,7 +14,4 @@ test('Página inicial do Magento', async ({page}) => {
   await page.click('//*[@id="qc-cmp2-ui"]/div[2]/div/button[2]');
 
   await page.waitForTimeout(2000)
-
-
-
 });
