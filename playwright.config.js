@@ -19,4 +19,13 @@ module.exports = defineConfig({
       }
     }
   ],
+  reporter: [
+    ['pwmochawesome',
+      {
+        outputJson: true,
+        reportDir: 'mochawesome-report',
+        reportTitle: 'Playwright Mochawesome Report',
+      }
+    ]
+  ],
 });

@@ -4,10 +4,10 @@ import { test, expect } from '@playwright/test';
 
 test.describe('Testing module-authentications', () => {
 
-    const firstName = 'Anderson';
+    const firstName = 'Silvia';
     const lastName = 'Silveira';
-    const email = 'anderson.silveira@gmail.com';
-    const wrongEmail = 'annd.silv@mail.com.br';
+    const email = 'silvia.silveira@gmail.com';
+    const wrongEmail = 'sil.silva@mail.com.br';
     const pass = 'SenhaForte456#';
     const wrongPass = 'F?';
 

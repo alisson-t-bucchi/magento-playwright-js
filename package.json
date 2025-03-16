@@ -1,7 +1,9 @@
 {
   "devDependencies": {
     "@playwright/test": "^1.49.1",
-    "playwright": "^1.49.1"
+    "mochawesome": "^7.1.3",
+    "playwright": "^1.49.1",
+    "pwmochawesome": "^2.0.2"
   },
   "name": "magento-playwright",
   "version": "1.0.0",
